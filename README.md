@@ -1,0 +1,1 @@
+# StanceNakba-2026-Stance-Detection
