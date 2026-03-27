@@ -3,8 +3,8 @@
 
 ### 🔹 Model Training & Fine-Tuning
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
-(https://colab.research.google.com/github/shroukgbr89/StanceNakba-2026-Stance-Detection/blob/main/NOTEBOOK_NAME_1.ipynb)
+(https://colab.research.google.com/drive/12xK8x9P0WDryYX35v0dVBtAd7B3uHRsf?usp=sharing)
 
 ### 🔹 Ensemble & Evaluation
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
-(https://colab.research.google.com/github/shroukgbr89/StanceNakba-2026-Stance-Detection/blob/main/NOTEBOOK_NAME_2.ipynb)
+(https://colab.research.google.com/drive/1VUIrcxXb2TRp0FeL80eQq6YnQBfAF4YU?usp=sharing)
